@@ -8,6 +8,7 @@ import {
     udemy,
     jinan,
     robofriends,
+    portfolio,
     react,
     python,
     java
@@ -125,6 +126,23 @@ import {
       ],
       image: robofriends,
       source_code_link: "https://github.com/alielabdo/robofriends",
+    },
+    {
+      name: "3dPortfolio",
+      description:
+        "My 3d Portfolio",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: portfolio,
+      source_code_link: "https://github.com/alielabdo/ali_3dportfolio",
     },
   ];
   

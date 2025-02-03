@@ -14,6 +14,7 @@ import jinan from "./company/jinan.png";
 import udemy from "./company/udemy.png";
 
 import robofriends from "./robofriends.png";
+import portfolio from './portfolio.png'
 
 export {
   web,
@@ -27,6 +28,7 @@ export {
   tailwind,
   jinan,
   robofriends,
+  portfolio,
   udemy,
   react,
   python,
