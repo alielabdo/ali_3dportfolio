@@ -15,5 +15,5 @@ export default defineConfig({
       ],
     },
   },
-  base: "/ali_3dportfolio",
+  base: "/ali_3dportfolio/",
 });
