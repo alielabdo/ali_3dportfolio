@@ -8,6 +8,7 @@ import {
     udemy,
     jinan,
     robofriends,
+    nike,
     portfolio,
     react,
     python,
@@ -126,6 +127,23 @@ import {
       ],
       image: robofriends,
       source_code_link: "https://github.com/alielabdo/robofriends",
+    },
+    {
+      name: "Nike with react",
+      description:
+        "A nike page that shows offers , sales , subscribe , products , testimonials , special offers and more",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: nike,
+      source_code_link: "https://github.com/alielabdo/nike-tailwindcss",
     },
     {
       name: "3dPortfolio",
