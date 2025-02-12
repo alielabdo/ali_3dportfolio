@@ -12,6 +12,7 @@ import {
     portfolio,
     react,
     python,
+    admin1,
     java
   } from "../assets";
   
@@ -161,6 +162,23 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/alielabdo/ali_3dportfolio",
+    },
+    {
+      name: "Admin Dashboard",
+      description:
+        "A professional admin dashboard made of React , with tailwindcss",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwindcss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: admin1,
+      source_code_link: "https://github.com/alielabdo/ali_admindashboard",
     },
   ];
   

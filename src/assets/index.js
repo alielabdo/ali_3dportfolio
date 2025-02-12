@@ -13,6 +13,7 @@ import javascript from "./tech/javascript.png";
 import tailwind from "./tech/tailwind.png";
 import jinan from "./company/jinan.png";
 import udemy from "./company/udemy.png";
+import admin1 from './admin1.png'
 
 import robofriends from "./robofriends.png";
 import portfolio from './portfolio.png'
@@ -34,5 +35,6 @@ export {
   udemy,
   react,
   python,
-  java
+  java,
+  admin1
 };
